@@ -391,6 +391,7 @@ $farmerEmail = $_SESSION['farmer_email'] ?? '';
     }
 </script>
 <a href="https://agri-mind-assistant.replit.app" target="_blank" class="link-btn">
+    Open Link for more qusiton
 </a>
 </body>
 </html>
